@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "764706796021",
+    "project_id": "apptiendasfullstack",
+    "storage_bucket": "apptiendasfullstack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764706796021:android:52fc3b7fa471be7ad9f0bc",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764706796021-rui907hub4fi92ikp0p186rd8etjpt7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGn0tFRllyqNLxJHmRpGZu-zAlusvHTuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764706796021-rui907hub4fi92ikp0p186rd8etjpt7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
